@@ -1,4 +1,4 @@
-The purpose of this analysis is to examine whether the Linear Regression Model is suitable for assessing the creditworthiness of borrowers. We're going to dig into a bunch of data from a peer-to-peer lending company. It's got loads of records—about 77,536—covering things lik
+The purpose of this analysis is to examine whether the Linear Regression Model is suitable for assessing the creditworthiness of borrowers. We're going to dig into a bunch of data from a peer-to-peer lending company. It's got loads of records—about 77,536 things covering: 
 	-Loan_size
 	-Interest_rate
 	-Burrower_income
