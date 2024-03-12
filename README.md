@@ -1,12 +1,12 @@
-The purpose of this analysis is to examine whether the Linear Regression Model is suitable for assessing the creditworthiness of borrowers. We're going to dig into a bunch of data from a peer-to-peer lending company. It's got loads of records—about 77,536—covering things lik
-	-Loan_size
-	-Interest_rate
-	-Burrower_income
-	-Debt_to_income
-	-Number_of_accounts
-	-Derogatory_marks
-	-Total_debt
-	-Loan_status
+The purpose of this analysis is to examine whether the Linear Regression Model is suitable for assessing the creditworthiness of borrowers. We're going to dig into a bunch of data from a peer-to-peer lending company. It's got loads of records—about 77,536 things covering: 
+-Loan_size
+-Interest_rate
+-Burrower_income
+-Debt_to_income
+-Number_of_accounts
+-Derogatory_marks
+-Total_debt
+-Loan_status
 
 Results: Logistic Regression Model
 -Accuracy: [99.241%] - With this high accuracy score, it's evident that the model performs admirably overall, correctly predicting 99% of the instances in the dataset.
