@@ -7,5 +7,5 @@ Results: Logistic Regression Model
   *Precision (1 class): [.87] - Though not perfect, this precision score of 87% still underscores the model's effectiveness in identifying high-risk loans, with a majority of instances correctly predicted.
   *Recall (1 class): [.89] - This recall score of 89% showcases the model's ability to accurately flag 89% of high-risk loans within the dataset.
 
-Summary:
-The logistic regression model does a great job predicting both healthy and high-risk loans, with high accuracy, precision, and recall scores for both. Even though high-risk loan recall is more crucial, the model's balance between precision and recall overall makes it the top choice for predicting loan status. In general, it performs really well, especially in spotting healthy loans. While it's not perfect for high-risk loans, it still does a good job and should be taken seriously.
+Sumarry:
+The logistic regression model does a great job predicting the healthy and high-risk loans, with high accuracy, precision, and recall scores for both. Even though high-risk loan recall is more crucial, the model's balance between precision and recall overall makes it the top choice for predicting loan status. In general, it performs really well, especially in spotting healthy loans. While it's not perfect for high-risk loans, it still does a good job and should be taken seriously.
